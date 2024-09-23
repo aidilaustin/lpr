@@ -1,0 +1,6 @@
+rapberrypi monitor
+
+- network by lan / poe cable
+- desktop remote control
+- waterproof
+- power supply world plug
